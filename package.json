@@ -1,0 +1,23 @@
+{
+  "name": "simple-vue-components",
+  "version": "1.0.0",
+  "description": "simplify complicated components of some packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbxrt/simple-vue-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbxrt/simple-vue-components/issues"
+  },
+  "homepage": "https://github.com/pbxrt/simple-vue-components#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
